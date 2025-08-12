@@ -1,2 +1,7 @@
-# zh-first-stratup
+# nba-stratup
 never be alone, yapay zeka destekli gerçek bir sosyalleşme platformudur. 
+Girişimin ana problemi, Dünya Sağlık Örgütünün 'halk sağlığı' olarak tanımladığı sorunun ana sebeplerinden olan yalnızlık ve yüzeysel ilişkilerdir.
+Problemi detaylandırmak gerekirse, modern dünyadaki dinamizme ayak uydurmanın zorluğu aşikar ve bu durum insanlarda önce yorgunluk ve yalnızlık, sonrasında ise daha ciddi psikolojik sorunlara yol açabiliyor. Özellikle şehir hayatında, yoğun iş temposu, sosyal kaygılar ve ortak ilgi alanı bulma zorlukları insanları izole ediyor.
+Bu uzun vadede çok büyük sorunlara yaratacak probleme çözüm olarak; insanların gerçekliği, samimiyeti, insanı insan yapan duyguları hissetmesini sağlayan, kolay ulaşılabilir sosyal ortamlar yaratmaktır.
+OLuşturduğum platfromda, üyelerin yaşam tarzlarını AI sayesinde analiz edilecek. Kullanıcılar, belirledikleri aralıkla farklı insanlarla iletişimi geçip istedikleri alanlarda ilişkiler kurabilecekler.  Yapay zeka yardımıyla oluşturulan ve kontrol edilen farklı başlıkların altındaki yüzlerce etkinlik ve sohbet ortamı; halihazırda kullanılan yapay medya araçlarından biri olmamakla beraber, insana sağlıklı bir yaşam için gerekli psikolojik desteği sağlayacak.
+Bu platfromu diğer sosyla platformlardan ayıran şeyler ise; yüzeysel etkileşimleri değil, derin ve anlamlı ilişkileri beslemesi; burada amaç vakit öldürmek değil, 'yaşamayı' paylaşmak.
